@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         text01 = findViewById(R.id.textView);
-        text01.setText("??????");
+        text01.setText("< Text Goes Here >");
     }
 
     public void clickButton1 (View x) {
